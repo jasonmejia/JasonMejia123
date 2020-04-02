@@ -1,16 +1,27 @@
-## Bemvindo to GitHub Pages
+## About my work
 
 You can use the [editor on GitHub](https://github.com/jasonmejia/testing123/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+My work is to teach science for Spanish speaking students.
+
+This project here this website I am developing fro showing my progress in computer skills.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 Cada vez que voce comitar este repositorio, GitHub Pages vai rodar [Jekyll]
 
-### Markdown
-## Markdown
+## Inspirations
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-Markdown e uma leve e facil de usar sintaxe para estilizar o seu escrito. Isto inclue convencoes para
 
+Markdown e uma leve e facil de usar sintaxe para estilizar o seu escrito. Isto inclue convencoes para.
+I worked on Summer of 2020 on Migrant Program. There I got to understand better the needs for students to learn science.
+
+## My Projects
+
+I am working in teaching geometry by building models with one student
+
+I am working in teaching calculus with a student in a honor class. 
+
+I am building an start up for exploration and path
 ```markdown
 Syntax highlighted code block
 
